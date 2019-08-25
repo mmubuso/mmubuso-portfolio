@@ -1,0 +1,16 @@
+
+/* style for profile container */
+.profile-picture {
+    border: 10px solid whitesmoke;
+    box-shadow: 3px 3px 5px 6px #ccc;
+    overflow: hidden;
+    height: 250px;
+    width: 250px;
+    border-radius: 250px;
+}
+/* style for profile image */
+.profile-picture img{
+    margin-top: -100px;
+    margin-left: -30px;
+    height: 440px;
+}
