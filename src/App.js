@@ -1,7 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import AboutMe from './containers/About Me/AboutMe';
+import AboutMe from './containers/Home/Home';
 
 function App() {
   return (

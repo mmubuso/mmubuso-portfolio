@@ -1,0 +1,9 @@
+.icon-tag{
+    height: 22px;
+    margin: 5px;
+}
+
+.icon-rows{
+    display: flex;
+    justify-content: space-between;
+}
