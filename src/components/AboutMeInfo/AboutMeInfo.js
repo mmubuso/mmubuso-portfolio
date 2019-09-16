@@ -12,24 +12,24 @@ import './AboutMeInfo.css'
 
 export default function AboutMeInfo() {
     return (
-        <div className=''>
-            <h2>Musiteli Mubuso</h2>
+        <div className='col-sm-12 row justify-content-center'>
+            <h2 className='col-sm-12'>Musiteli Mubuso</h2>
             <p className='lead'>Software Engineer</p>
-            <p>
+            <p className='col-sm-12'>
                 <img src={Envelope}
                     className='icon-tag'
                     alt='envelope' /> mubuso.musiteli@gmail.com
                 </p>
-            <p>
+            <p className='col-sm-12'>
                 <img src={MobilePhone}
                     className='icon-tag'
                     alt='phone' /> 678 895 3203</p>
-            <p>
+            <p className='col-sm-12'>
                 <img src={LocationSign}
                     className='icon-tag'
                     alt='gps sign' /> Greater Atlanta Area</p>
             {/* Social Media presence  */}
-            <p className='icon-rows'>
+            <p className='col-sm-12 icon-rows'>
                 <a href='https://twitter.com/CallMeMrMubuso'
                     target="_blank"
                     rel='noopener noreferrer'>

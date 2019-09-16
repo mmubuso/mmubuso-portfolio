@@ -11,7 +11,7 @@ export default class AboutMe extends Component {
 
     render() {
         return (
-            <div className='col-xs-12 container about-me row justify-content-center'>
+            <div className='col-sm-12 container home row justify-content-center'>
                 <ProfilePicture/>
                 <AboutMeInfo />
             </div>
