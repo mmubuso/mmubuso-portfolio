@@ -41,7 +41,7 @@ const items = [
     {
         src: '../images/to-do-list.gif',
         altText: 'Slide 7',
-        caption: 'To do list using react native',
+        caption: 'A To do list created with react native',
         header: 'To Do List'
     },
     {
@@ -53,7 +53,7 @@ const items = [
     {
         src: '../images/image-filter.gif',
         altText: 'Slide 9',
-        caption: 'Adjust a pictures image filters',
+        caption: 'An application for adjusting a pictures image filters',
         header: 'Image Filter'
     },
     {
@@ -65,19 +65,19 @@ const items = [
     {
         src: '../images/tip-calculator.gif',
         altText: 'Slide 11',
-        caption: 'A calculator for figuring out the tip',
+        caption: 'A mobile calculator for figuring out how much to tip',
         header: 'Tip calculator'
     },
     {
         src: '../images/html-video.gif',
         altText: 'Slide 12',
-        caption: 'Custom video player buttons',
+        caption: 'Custom video player created using vanilla javascript',
         header: 'HTML Video Player'
     },
     {
         src: '../images/pomodoro-clock.gif',
         altText: 'Slide 13',
-        caption: 'A timer to optomize effiency',
+        caption: 'A timer to optomize effiency using the pomodoro technique',
         header: 'Pomodoro Timer'
     },
     {
