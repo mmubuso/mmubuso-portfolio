@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mmubuso-portfolio/precache-manifest.cb295ae13a866cc7d1da1ed7feefea35.js"
+  "/mmubuso-portfolio/precache-manifest.22f9025ea450805d44deb444cf196e1c.js"
 );
 
 self.addEventListener('message', (event) => {
